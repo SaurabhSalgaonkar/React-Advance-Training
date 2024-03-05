@@ -25,8 +25,8 @@
 }
 
 .card {
-    border: 1px solid grey;
-    height: 60vh;
-    width: 50vw;
+    border: 2px solid grey;
+    width: 30vw;
     display: flex;
+    margin: 10px;
 }
