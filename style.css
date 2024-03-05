@@ -1,0 +1,32 @@
+.header-container {
+    width: 99vw;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-image {
+    height: 80px;
+    width: 80px;
+    padding: 5px;
+}
+
+.nav-list ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav-list ul li {
+    padding: 5px;
+    margin: 10px;
+}
+
+.card {
+    border: 1px solid grey;
+    height: 60vh;
+    width: 50vw;
+    display: flex;
+}
